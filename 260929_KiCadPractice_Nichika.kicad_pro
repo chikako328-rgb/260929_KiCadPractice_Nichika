@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 1.2,
+          "width": 0.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -211,7 +211,9 @@
       ],
       "track_widths": [
         0.0,
-        0.2
+        0.2,
+        0.6,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -247,6 +249,14 @@
         {
           "diameter": 0.45,
           "drill": 0.2
+        },
+        {
+          "diameter": 1.2,
+          "drill": 0.6
+        },
+        {
+          "diameter": 1.5,
+          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false
@@ -693,7 +703,7 @@
   "sheets": [
     [
       "9569712d-a4bc-49a2-86d8-75fc30e9c436",
-      "260929"
+      "260929_KiCadPractice_Nichika"
     ]
   ],
   "text_variables": {},

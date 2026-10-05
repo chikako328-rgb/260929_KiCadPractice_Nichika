@@ -61,7 +61,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "260929.kicad_prl",
+    "filename": "260929_KiCadPractice_Nichika.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -93,7 +93,7 @@
       162,
       147,
       91,
-      67,
+      70,
       91,
       91,
       91,

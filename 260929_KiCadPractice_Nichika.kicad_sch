@@ -4233,12 +4233,6 @@
 		(uuid "fc9ed3cb-5b5c-4035-b486-d7d19a99c52b")
 	)
 	(junction
-		(at 90.17 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0bc7784e-3af9-43de-885b-b7666d3f05fd")
-	)
-	(junction
 		(at 234.95 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4333,6 +4327,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9fcc0244-4b38-4f49-aac5-0c8ae16b3c94")
+	)
+	(junction
+		(at 90.17 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a04927f4-edb6-47fb-b144-d42a7c834054")
 	)
 	(junction
 		(at 132.08 38.1)
@@ -5858,7 +5858,7 @@
 			(uuid "9b4567c2-5c14-42b0-b5c9-050a9ec23ac3")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR028")
 					(unit 1)
@@ -5937,7 +5937,7 @@
 			(uuid "8957ffc6-1686-4359-b3f2-c2bf44635dfb")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR016")
 					(unit 1)
@@ -6015,7 +6015,7 @@
 			(uuid "5e31d2ea-cfe0-41c7-bd60-03c88fa6048f")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR01")
 					(unit 1)
@@ -6093,7 +6093,7 @@
 			(uuid "8f7e7e2b-3fca-4dd6-b53e-95b6b3183693")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR07")
 					(unit 1)
@@ -6171,7 +6171,7 @@
 			(uuid "b24fd58a-4fa6-4b6e-ab20-69158519efa9")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR020")
 					(unit 1)
@@ -6249,7 +6249,7 @@
 			(uuid "86a8bc11-b187-4f05-9c21-f66050cb6aff")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR08")
 					(unit 1)
@@ -6328,7 +6328,7 @@
 			(uuid "7c919cc4-be0d-442a-8001-00089f8803bd")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR013")
 					(unit 1)
@@ -6407,7 +6407,7 @@
 			(uuid "578b16f4-d65a-4710-8446-848174feb47e")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR034")
 					(unit 1)
@@ -6489,7 +6489,7 @@
 			(uuid "31cb2c39-1b38-41b8-aa3f-8b5f93baffbe")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R2")
 					(unit 1)
@@ -6571,7 +6571,7 @@
 			(uuid "b94fd28c-ae8b-4e05-b998-710828196001")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C8")
 					(unit 1)
@@ -6649,7 +6649,7 @@
 			(uuid "306633b4-f81d-422a-b68d-aa99371710ba")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR026")
 					(unit 1)
@@ -6728,7 +6728,7 @@
 			(uuid "ca686f97-b1d9-4609-8f27-d8b106f8203e")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR011")
 					(unit 1)
@@ -6806,7 +6806,7 @@
 			(uuid "43456449-1002-4fdf-878e-4e4026aae3b3")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR031")
 					(unit 1)
@@ -6884,7 +6884,7 @@
 			(uuid "2ccc33c1-9114-4af6-9351-f48871edc2ca")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR021")
 					(unit 1)
@@ -6966,7 +6966,7 @@
 			(uuid "0deb4767-5d9d-4393-8380-2f69f201e1d4")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "J2")
 					(unit 1)
@@ -7044,7 +7044,7 @@
 			(uuid "64d3563c-6ec0-4e7a-bb05-6aec9a5ef974")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR022")
 					(unit 1)
@@ -7122,7 +7122,7 @@
 			(uuid "2f95fb09-7a36-474d-8971-d1a7e4b0040e")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR05")
 					(unit 1)
@@ -7267,7 +7267,7 @@
 			(uuid "991089d2-3888-4a36-853f-42d5f927a093")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "S1")
 					(unit 1)
@@ -7345,7 +7345,7 @@
 			(uuid "b7ec0aff-85e7-46e3-9e7b-b34273da56fd")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR04")
 					(unit 1)
@@ -7427,7 +7427,7 @@
 			(uuid "a4fb4136-534c-455b-8861-cb0e6837759a")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R8")
 					(unit 1)
@@ -7505,7 +7505,7 @@
 			(uuid "86ab0535-117d-4fba-97a4-7b6accf3f5b3")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR035")
 					(unit 1)
@@ -7583,7 +7583,7 @@
 			(uuid "a62c293d-9411-44fd-aa90-6b89bc2d3a6c")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR023")
 					(unit 1)
@@ -7661,7 +7661,7 @@
 			(uuid "12b9c2c7-0b00-4ff4-8f1e-2bab073d4e25")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR027")
 					(unit 1)
@@ -7739,7 +7739,7 @@
 			(uuid "0afdee10-7db1-44d5-9659-81947876a6d5")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR06")
 					(unit 1)
@@ -7830,7 +7830,7 @@
 			(uuid "bdcaa5ba-c11c-4356-8482-408b5c123de5")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "D1")
 					(unit 1)
@@ -7908,7 +7908,7 @@
 			(uuid "186f480c-053c-46fb-9779-5d91ecfab7fe")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR033")
 					(unit 1)
@@ -7990,7 +7990,7 @@
 			(uuid "c8661165-b874-4591-9646-b8ddc6908f12")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R5")
 					(unit 1)
@@ -8071,7 +8071,7 @@
 			(uuid "6e90e372-24ea-4f5b-b892-fefc9b082152")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C5")
 					(unit 1)
@@ -8149,7 +8149,7 @@
 			(uuid "76b2b331-3a91-46be-8a8f-de07ef1dc078")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR019")
 					(unit 1)
@@ -8231,7 +8231,7 @@
 			(uuid "e32a6fbf-413f-4c5d-bc92-1357f0472e1b")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R9")
 					(unit 1)
@@ -8313,7 +8313,7 @@
 			(uuid "73ba92d5-36cf-4410-8599-1d8e3f87efd9")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C7")
 					(unit 1)
@@ -8391,7 +8391,7 @@
 			(uuid "4e64b63b-430b-462d-9451-d7f6b5112347")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR03")
 					(unit 1)
@@ -8467,7 +8467,7 @@
 			)
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "H1")
 					(unit 1)
@@ -8546,7 +8546,7 @@
 			(uuid "f0af004f-e436-482a-b3e0-7cbe5f0f8a4b")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR012")
 					(unit 1)
@@ -8628,7 +8628,7 @@
 			(uuid "d52eadef-f4a3-4c8a-b5ae-8a2d39d764a5")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R7")
 					(unit 1)
@@ -8704,7 +8704,7 @@
 			)
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "H4")
 					(unit 1)
@@ -8782,7 +8782,7 @@
 			(uuid "85ed3e49-d8e4-4f5d-ae41-9c5a870bc990")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR029")
 					(unit 1)
@@ -8860,7 +8860,7 @@
 			(uuid "02158809-84ed-434e-8cec-271fa6d7fcb7")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR024")
 					(unit 1)
@@ -8939,7 +8939,7 @@
 			(uuid "7fb54d06-4ded-4d35-af42-8e628fd6e668")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR014")
 					(unit 1)
@@ -9021,7 +9021,7 @@
 			(uuid "dae7e87a-e89f-4509-acc1-26262c6c17a0")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R4")
 					(unit 1)
@@ -9099,7 +9099,7 @@
 			(uuid "717c8262-89be-404d-9594-415dda6bb4d0")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR032")
 					(unit 1)
@@ -9181,7 +9181,7 @@
 			(uuid "79506986-8879-4522-ba7b-be75af062d21")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R6")
 					(unit 1)
@@ -9263,7 +9263,7 @@
 			(uuid "a2c42b4f-65ae-4ee9-85fc-dd8ff0196844")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C6")
 					(unit 1)
@@ -9341,7 +9341,7 @@
 			(uuid "5269ae33-9121-4d29-8ced-5b3ac21fed6f")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR02")
 					(unit 1)
@@ -9423,7 +9423,7 @@
 			(uuid "a09e43df-c2b0-442f-8860-c0bb23b1d2c9")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C4")
 					(unit 1)
@@ -9530,7 +9530,7 @@
 			(uuid "10acd85d-e0f6-4696-b36b-2de0536c4a52")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "J1")
 					(unit 1)
@@ -9624,7 +9624,7 @@
 			(uuid "cf291b2f-0495-4dc2-8d2f-ad444fd43fba")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "U2")
 					(unit 1)
@@ -9703,7 +9703,7 @@
 			(uuid "3bd5546b-99a8-4407-b537-4177dc64cd93")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR010")
 					(unit 1)
@@ -9783,7 +9783,7 @@
 			(uuid "f499bcca-3a80-41a3-bbdf-51b3d98a4bed")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R10")
 					(unit 1)
@@ -9861,7 +9861,7 @@
 			(uuid "a453467b-11be-40d3-8400-0851d49a01d7")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR018")
 					(unit 1)
@@ -9939,7 +9939,7 @@
 			(uuid "bffb9458-e193-48cd-bf7e-6d60f625e608")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR09")
 					(unit 1)
@@ -10015,7 +10015,7 @@
 			)
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "H3")
 					(unit 1)
@@ -10097,7 +10097,7 @@
 			(uuid "285cb3c6-6e8a-4928-8bfd-183afcb153c3")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R3")
 					(unit 1)
@@ -10179,7 +10179,7 @@
 			(uuid "c40afbbd-e4f8-4c13-8b17-8fd23e868ecd")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C1")
 					(unit 1)
@@ -10264,7 +10264,7 @@
 			(uuid "367e1462-6253-4965-acee-3ab1363fac47")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "U4")
 					(unit 1)
@@ -10370,7 +10370,7 @@
 			(uuid "d25b3bc1-68b0-4078-b0d3-8e3dcb720d0c")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "U3")
 					(unit 1)
@@ -10448,7 +10448,7 @@
 			(uuid "a48499e0-0325-4405-a0b8-365f5cd97cef")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR025")
 					(unit 1)
@@ -10526,7 +10526,7 @@
 			(uuid "87f20bc4-cd1c-4fe2-b891-d1532ef53f18")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR015")
 					(unit 1)
@@ -10644,7 +10644,7 @@
 			(uuid "b5698d1b-3b29-4d5f-97a3-daab57232b9a")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "U1")
 					(unit 1)
@@ -10722,7 +10722,7 @@
 			(uuid "0399085a-3a56-43ee-95b8-3185c89fb965")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR036")
 					(unit 1)
@@ -10804,7 +10804,7 @@
 			(uuid "a4f33555-3e68-41c5-9ddc-af13d66c4537")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C2")
 					(unit 1)
@@ -10884,7 +10884,7 @@
 			(uuid "29c8067f-ea68-4223-8413-5dd425384d49")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "R1")
 					(unit 1)
@@ -10963,7 +10963,7 @@
 			(uuid "19d29ea4-4a14-40d6-a1dd-b6bf090bcd9e")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR030")
 					(unit 1)
@@ -11041,7 +11041,7 @@
 			(uuid "07e9d8d7-7144-4321-9370-dcc9e80d5938")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "#PWR017")
 					(unit 1)
@@ -11237,7 +11237,7 @@
 			(uuid "0f614d6b-ab88-48c8-bd4d-ee8b2a67701a")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "A1")
 					(unit 1)
@@ -11313,7 +11313,7 @@
 			)
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "H2")
 					(unit 1)
@@ -11395,7 +11395,7 @@
 			(uuid "f3d236c1-e3e6-470a-a2c5-d9529cccc2fa")
 		)
 		(instances
-			(project "260929"
+			(project "260929_KiCadPractice_Nichika"
 				(path "/9569712d-a4bc-49a2-86d8-75fc30e9c436"
 					(reference "C3")
 					(unit 1)
